@@ -106,6 +106,12 @@
     }
 </script>
 
+<svelte:head>
+    <title>KontentKlear - Remove Colours from Images</title>
+    <meta name="description" content="KontentKlear is a free online tool that allows you to easily remove specific colours from your images. Simply upload an image, click on the colour you want to remove, and adjust the tolerance for perfect results. Download your edited image as a PNG with a transparent background." />
+    <meta name="keywords" content="KontentKlear, colour removal, image editing, online tool, free, upload image, click colour, adjust tolerance, download PNG, transparent background" />
+</svelte:head>
+
 
 <main class="h-screen bg-[#f2ecce] flex items-center justify-center font-archivo">
 
